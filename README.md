@@ -4,7 +4,7 @@ Escapement Audio's products ship libraries licensed under the GNU Lesser General
 This repository publishes the complete corresponding source code for each of them.
 
 Each [release](https://github.com/PaulChana/lgpl-sources/releases) is tagged with the product and version it
-belongs to, for example `tonepath-0.5.0`, and contains:
+belongs to, for example `tonepath-0.6.0`, and contains:
 
 - the source archive of every project compiled into the shipped library, exactly as it was built
 - the script used to compile the library
